@@ -1,1 +1,6 @@
 fdsdfasfd
+change-from-test
+
+local-change-to-discard
+
+change-from-test
