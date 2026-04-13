@@ -1,0 +1,2 @@
+Simple/*.exe filter=lfs diff=lfs merge=lfs -text
+Simple/*.pdf filter=lfs diff=lfs merge=lfs -text
